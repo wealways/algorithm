@@ -10,5 +10,5 @@
 
 ## 모든 정리는 Notion!
 
-https://www.notion.so/0b5cd01de76e42d7972e85d16a96a331
+https://www.notion.so/c8caab6ec001497eaf59146c5f05aab4?v=627b7cc3e5b94d05b2cf3a50d5e19dc8
 
