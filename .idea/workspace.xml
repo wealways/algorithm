@@ -14,54 +14,56 @@
     <session id="-783376072">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
-          <entry key="txt" value="6" />
+          <entry key="py" value="10" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="6" />
-          <entry key="Python" value="6" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="3443" />
-          <entry key="txt" value="3" />
+          <entry key="py" value="5428" />
+          <entry key="txt" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="3443" />
+          <entry key="PLAIN_TEXT" value="108" />
+          <entry key="Python" value="5428" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BOJ11050 이항 계수.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/큐/BOJ2164.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BOJ11050.txt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/큐/BOJ2164 카드2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -92,12 +94,21 @@
         <option value="$PROJECT_DIR$/BOJ2798 블랙잭.py" />
         <option value="$PROJECT_DIR$/BOJ11050.txt" />
         <option value="$PROJECT_DIR$/BOJ11050 이항 계수.py" />
+        <option value="$PROJECT_DIR$/BOJ2609.txt" />
+        <option value="$PROJECT_DIR$/BOJ2609 최대공약수와 최소공배수.py" />
+        <option value="$PROJECT_DIR$/BOJ10814.txt" />
+        <option value="$PROJECT_DIR$/BOJ10814 나이순 정렬.py" />
+        <option value="$PROJECT_DIR$/BOJ7568.txt" />
+        <option value="$PROJECT_DIR$/BOJ7568 덩치.py" />
+        <option value="$PROJECT_DIR$/브루트포스/BOJ7568 덩치.py" />
+        <option value="$PROJECT_DIR$/BOJ2164.txt" />
+        <option value="$PROJECT_DIR$/BOJ2164 카드2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="224" />
-    <option name="y" value="70" />
+    <option name="x" value="132" />
+    <option name="y" value="28" />
     <option name="width" value="1438" />
     <option name="height" value="1056" />
   </component>
@@ -109,6 +120,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,19 +132,21 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\브루트포스" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\이분탐색" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\큐" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\브루트포스" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\정렬" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\수학" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\이분탐색" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -147,7 +161,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ11050 이항 계수">
+  <component name="RunManager" selected="Python.BOJ2164 카드2">
+    <configuration name="BOJ10814 나이순 정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\정렬\BOJ10814 나이순 정렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BOJ11050 이항 계수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ1436 영화감독 숌" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BOJ2164 카드2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,7 +216,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\브루트포스\BOJ1436 영화감독 숌.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\큐\BOJ2164 카드2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ1654 랜선 자르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BOJ2609 최대공약수와 최소공배수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +237,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\이분탐색\BOJ1654 랜선 자르기.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\수학\BOJ2609 최대공약수와 최소공배수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ2231 분해합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BOJ7568 덩치" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,28 +258,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\브루트포스\BOJ2231 분해합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ2798 블랙잭" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\브루트포스\BOJ2798 블랙잭.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\브루트포스\BOJ7568 덩치.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,19 +268,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ1436 영화감독 숌" />
-      <item itemvalue="Python.BOJ1654 랜선 자르기" />
-      <item itemvalue="Python.BOJ2231 분해합" />
-      <item itemvalue="Python.BOJ2798 블랙잭" />
       <item itemvalue="Python.BOJ11050 이항 계수" />
+      <item itemvalue="Python.BOJ2609 최대공약수와 최소공배수" />
+      <item itemvalue="Python.BOJ10814 나이순 정렬" />
+      <item itemvalue="Python.BOJ7568 덩치" />
+      <item itemvalue="Python.BOJ2164 카드2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ2164 카드2" />
+        <item itemvalue="Python.BOJ7568 덩치" />
+        <item itemvalue="Python.BOJ10814 나이순 정렬" />
+        <item itemvalue="Python.BOJ2609 최대공약수와 최소공배수" />
         <item itemvalue="Python.BOJ11050 이항 계수" />
-        <item itemvalue="Python.BOJ2798 블랙잭" />
-        <item itemvalue="Python.BOJ2231 분해합" />
-        <item itemvalue="Python.BOJ1654 랜선 자르기" />
-        <item itemvalue="Python.BOJ1436 영화감독 숌" />
       </list>
     </recent_temporary>
   </component>
@@ -284,7 +298,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="224" y="70" width="1438" height="1056" extended-state="0" />
+    <frame x="132" y="28" width="1438" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23785715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -341,9 +356,29 @@
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BOJ11050 이항 계수.py</url>
+          <url>file://$PROJECT_DIR$/수학/BOJ11050 이항 계수.py</url>
           <line>10</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/수학/BOJ2609 최대공약수와 최소공배수.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/수학/BOJ2609 최대공약수와 최소공배수.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/정렬/BOJ10814 나이순 정렬.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/큐/BOJ2164 카드2.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -405,9 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-207">
           <caret selection-end-line="25" selection-end-column="17" />
-          <folding>
-            <marker date="1614517028123" expanded="true" signature="65:349" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -418,17 +450,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ11050.txt">
+    <entry file="file://$PROJECT_DIR$/수학/BOJ11050 이항 계수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수학/BOJ11050.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ11050 이항 계수.py">
+    <entry file="file://$PROJECT_DIR$/수학/BOJ2609 최대공약수와 최소공배수.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="300">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1614523260593" expanded="true" signature="93:160" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수학/BOJ2609.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/정렬/BOJ10814 나이순 정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files/Python35/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="291" selection-start-line="291" selection-end-line="291" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/정렬/BOJ10814.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스/BOJ7568.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/브루트포스/BOJ7568 덩치.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/큐/BOJ2164.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/큐/BOJ2164 카드2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
