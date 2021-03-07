@@ -1,0 +1,33 @@
+3
+14
+push 1
+push 2
+top
+size
+empty
+pop
+pop
+pop
+size
+empty
+pop
+push 3
+empty
+top
+7
+pop
+top
+push 123
+top
+pop
+top
+pop
+8
+push 1
+push 2
+pop
+pop
+push 3
+push 4
+pop
+pop
