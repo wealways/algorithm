@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68d786a3-ba25-4d48-85ab-42516b00fedd" name="Default Changelist" comment="" />
+    <list default="true" id="68d786a3-ba25-4d48-85ab-42516b00fedd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/BOJ1260 DFS와 BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ1260 DFS와 BFS.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,14 +37,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="10586" />
+          <entry key="py" value="10816" />
           <entry key="txt" value="152" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="153" />
-          <entry key="Python" value="10586" />
+          <entry key="Python" value="10816" />
         </counts>
       </usages-collector>
     </session>
@@ -61,10 +63,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BOJ1260 DFS와 BFS.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="425">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding>
-                <marker date="1615294522282" expanded="true" signature="78:199" ph="..." />
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1615301222800" expanded="true" signature="232:499" ph="..." />
               </folding>
             </state>
           </provider>
@@ -124,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -416,7 +419,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/BOJ1260 DFS와 BFS.py</url>
-          <line>21</line>
+          <line>32</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
@@ -729,10 +732,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BOJ1260 DFS와 BFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="425">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding>
-            <marker date="1615294522282" expanded="true" signature="78:199" ph="..." />
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1615301222800" expanded="true" signature="232:499" ph="..." />
           </folding>
         </state>
       </provider>
