@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68d786a3-ba25-4d48-85ab-42516b00fedd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BOJ1260 DFS와 BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/BOJ1260 DFS와 BFS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ1260 DFS와 BFS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOJ1260.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,27 +26,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="25" />
-          <entry key="txt" value="17" />
+          <entry key="py" value="30" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="17" />
-          <entry key="Python" value="25" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="10816" />
-          <entry key="txt" value="152" />
+          <entry key="py" value="12239" />
+          <entry key="txt" value="170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="153" />
-          <entry key="Python" value="10816" />
+          <entry key="PLAIN_TEXT" value="171" />
+          <entry key="Python" value="12239" />
         </counts>
       </usages-collector>
     </session>
@@ -52,23 +54,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BOJ1260.txt">
+        <entry file="file://$PROJECT_DIR$/문자열/BOJ1764.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+            <state relative-caret-position="175">
+              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BOJ1260 DFS와 BFS.py">
+        <entry file="file://$PROJECT_DIR$/문자열/BOJ1764 듣보잡.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
-              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1615301222800" expanded="true" signature="232:499" ph="..." />
-              </folding>
+              <caret line="17" column="16" lean-forward="true" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -81,6 +79,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Kakuna</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,13 +127,19 @@
         <option value="$PROJECT_DIR$/BOJ1463 1로 만들기.py" />
         <option value="$PROJECT_DIR$/BOJ1260.txt" />
         <option value="$PROJECT_DIR$/BOJ1260 DFS와 BFS.py" />
+        <option value="$PROJECT_DIR$/BOJ1003.txt" />
+        <option value="$PROJECT_DIR$/BOJ1003 피보나치 함수.py" />
+        <option value="$PROJECT_DIR$/BOJ1620.txt" />
+        <option value="$PROJECT_DIR$/BOJ1620 나는야 포켓몬 마스터 이다솜.py" />
+        <option value="$PROJECT_DIR$/BOJ1764.txt" />
+        <option value="$PROJECT_DIR$/BOJ1764 듣보잡.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1416" />
+    <option name="y" value="54" />
+    <option name="width" value="1438" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -160,15 +169,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\BFS" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DFS" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\문자열" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DP" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\큐" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\덱" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\스택" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\힙" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,8 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ1260 DFS와 BFS">
-    <configuration name="BOJ10845 큐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.BOJ1764 듣보잡">
+    <configuration name="BOJ1003 피보나치 함수" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -196,49 +207,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\큐\BOJ10845 큐.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ10866 덱" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\덱\BOJ10866 덱.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ11866 요세푸스 문제 0" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\큐\BOJ11866 요세푸스 문제 0.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\DP\BOJ1003 피보나치 함수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,20 +258,62 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BOJ1620 나는야 포켓몬 마스터 이다솜" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\문자열\BOJ1620 나는야 포켓몬 마스터 이다솜.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BOJ1764 듣보잡" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\문자열\BOJ1764 듣보잡.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.BOJ10845 큐" />
-      <item itemvalue="Python.BOJ10866 덱" />
-      <item itemvalue="Python.BOJ11866 요세푸스 문제 0" />
       <item itemvalue="Python.BOJ1463 1로 만들기" />
       <item itemvalue="Python.BOJ1260 DFS와 BFS" />
+      <item itemvalue="Python.BOJ1003 피보나치 함수" />
+      <item itemvalue="Python.BOJ1620 나는야 포켓몬 마스터 이다솜" />
+      <item itemvalue="Python.BOJ1764 듣보잡" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ1764 듣보잡" />
+        <item itemvalue="Python.BOJ1620 나는야 포켓몬 마스터 이다솜" />
+        <item itemvalue="Python.BOJ1003 피보나치 함수" />
         <item itemvalue="Python.BOJ1260 DFS와 BFS" />
         <item itemvalue="Python.BOJ1463 1로 만들기" />
-        <item itemvalue="Python.BOJ11866 요세푸스 문제 0" />
-        <item itemvalue="Python.BOJ10866 덱" />
-        <item itemvalue="Python.BOJ10845 큐" />
       </list>
     </recent_temporary>
   </component>
@@ -320,15 +331,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1416" y="54" width="1438" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17544784" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23785715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30510315" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30510315" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42996743" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -417,11 +428,6 @@
           <line>9</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BOJ1260 DFS와 BFS.py</url>
-          <line>32</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -440,23 +446,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/이분탐색/BOJ1920.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스/BOJ1436 영화감독 숌.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/브루트포스/BOJ1436.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/이분탐색/BOJ1654.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -730,14 +719,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DFS/BOJ1260.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BFS/BOJ1260.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/BOJ1260 DFS와 BFS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+        <state>
+          <caret selection-end-line="36" selection-end-column="11" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
-            <marker date="1615301222800" expanded="true" signature="232:499" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DFS/BOJ1260 DFS와 BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/BOJ1003.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DP/BOJ1003 피보나치 함수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="34" selection-end-column="30" />
+          <folding>
+            <marker date="1615378983307" expanded="true" signature="72:543" ph="..." />
+            <marker date="1615378983307" expanded="true" signature="251:386" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/문자열/BOJ1620.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/문자열/BOJ1620 나는야 포켓몬 마스터 이다솜.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="9" lean-forward="true" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/문자열/BOJ1764.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/문자열/BOJ1764 듣보잡.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="16" lean-forward="true" selection-end-line="19" />
         </state>
       </provider>
     </entry>
