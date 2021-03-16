@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68d786a3-ba25-4d48-85ab-42516b00fedd" name="Default Changelist" comment="" />
+    <list default="true" id="68d786a3-ba25-4d48-85ab-42516b00fedd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,38 +14,38 @@
     <session id="-783376072">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="47" />
-          <entry key="txt" value="34" />
+          <entry key="py" value="48" />
+          <entry key="txt" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="34" />
-          <entry key="Python" value="47" />
+          <entry key="PLAIN_TEXT" value="35" />
+          <entry key="Python" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="1" />
-          <entry key="py" value="20101" />
+          <entry key="py" value="20827" />
           <entry key="txt" value="202" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="203" />
-          <entry key="Python" value="20101" />
+          <entry key="Python" value="20827" />
         </counts>
       </usages-collector>
     </session>
@@ -51,19 +53,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BOJ1927.txt">
+        <entry file="file://$PROJECT_DIR$/BOJ7576.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="50">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BOJ1927 최소 힙.py">
+        <entry file="file://$PROJECT_DIR$/BOJ7576 토마토.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" column="33" lean-forward="true" selection-end-line="15" />
+            <state>
+              <caret selection-end-line="32" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -88,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/브루트포스/BOJ7568 덩치.py" />
-        <option value="$PROJECT_DIR$/BOJ2164.txt" />
         <option value="$PROJECT_DIR$/BOJ2164 카드2.py" />
         <option value="$PROJECT_DIR$/BOJ10816.txt" />
         <option value="$PROJECT_DIR$/BOJ10816 숫자카드2.py" />
@@ -139,13 +142,15 @@
         <option value="$PROJECT_DIR$/BOJ1697 숨바꼭질.py" />
         <option value="$PROJECT_DIR$/BOJ1927.txt" />
         <option value="$PROJECT_DIR$/BOJ1927 최소 힙.py" />
+        <option value="$PROJECT_DIR$/BOJ7576.txt" />
+        <option value="$PROJECT_DIR$/BOJ7576 토마토.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1874" />
-    <option name="y" value="155" />
-    <option name="width" value="1438" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -156,6 +161,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,25 +173,24 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\힙" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\BFS" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\분할정복" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\정렬" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\그리디" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\BFS" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DFS" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\BFS" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\분할정복" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\정렬" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\힙" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\그리디" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -200,7 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ1927 최소 힙">
+  <component name="RunManager" selected="Python.BOJ7576 토마토">
     <configuration name="BOJ1074 Z" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,27 +219,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\분할정복\BOJ1074 Z.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="BOJ11724 연결 요소의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\BFS\BOJ11724 연결 요소의 개수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,20 +290,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BOJ7576 토마토" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\BFS\BOJ7576 토마토.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.BOJ11724 연결 요소의 개수" />
       <item itemvalue="Python.BOJ18870 좌표 압축" />
       <item itemvalue="Python.BOJ1074 Z" />
       <item itemvalue="Python.BOJ1697 숨바꼭질" />
       <item itemvalue="Python.BOJ1927 최소 힙" />
+      <item itemvalue="Python.BOJ7576 토마토" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ7576 토마토" />
         <item itemvalue="Python.BOJ1927 최소 힙" />
         <item itemvalue="Python.BOJ1697 숨바꼭질" />
         <item itemvalue="Python.BOJ1074 Z" />
         <item itemvalue="Python.BOJ18870 좌표 압축" />
-        <item itemvalue="Python.BOJ11724 연결 요소의 개수" />
       </list>
     </recent_temporary>
   </component>
@@ -337,10 +342,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1874" y="155" width="1438" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19428572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1938883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -502,23 +507,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/자료구조/덱/BOJ10866 덱.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/자료구조/큐/BOJ11866.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/자료구조/큐/BOJ11866 요세푸스 문제 0.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -816,17 +804,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ1927.txt">
+    <entry file="file://$PROJECT_DIR$/자료구조/힙/BOJ1927.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ1927 최소 힙.py">
+    <entry file="file://$PROJECT_DIR$/자료구조/힙/BOJ1927 최소 힙.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="14" column="33" lean-forward="true" selection-end-line="15" />
+          <caret line="14" column="33" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ7576.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ7576 토마토.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="32" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
