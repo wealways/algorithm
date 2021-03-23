@@ -25,47 +25,50 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="58" />
-          <entry key="txt" value="43" />
+          <entry key="py" value="59" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="43" />
-          <entry key="Python" value="58" />
+          <entry key="PLAIN_TEXT" value="44" />
+          <entry key="Python" value="59" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="py" value="25166" />
+          <entry key="py" value="26118" />
           <entry key="txt" value="205" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="211" />
-          <entry key="Python" value="25166" />
+          <entry key="Python" value="26118" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BOJ1676.txt">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOJ7569.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="75">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BOJ1676 팩토리얼 0의 개수.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BOJ7569 토마토.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="370">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -90,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BOJ1003.txt" />
-        <option value="$PROJECT_DIR$/BOJ1003 피보나치 함수.py" />
         <option value="$PROJECT_DIR$/BOJ1620.txt" />
         <option value="$PROJECT_DIR$/BOJ1620 나는야 포켓몬 마스터 이다솜.py" />
         <option value="$PROJECT_DIR$/BOJ1764.txt" />
@@ -139,14 +140,16 @@
         <option value="$PROJECT_DIR$/BOJ11403 경로 찾기.py" />
         <option value="$PROJECT_DIR$/BOJ1541.txt" />
         <option value="$PROJECT_DIR$/BOJ1541 잃어버린 괄호.py" />
-        <option value="$PROJECT_DIR$/BOJ1676 팩토리얼 0의 개수.py" />
         <option value="$PROJECT_DIR$/BOJ1676.txt" />
+        <option value="$PROJECT_DIR$/BOJ1676 팩토리얼 0의 개수.py" />
+        <option value="$PROJECT_DIR$/BOJ7569.txt" />
+        <option value="$PROJECT_DIR$/BOJ7569 토마토.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-1609" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="200" />
+    <option name="y" value="-17" />
     <option name="width" value="1438" />
     <option name="height" value="1056" />
   </component>
@@ -186,18 +189,18 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\수학" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\그리디" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DFS" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DP" />
+      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\BFS" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\BFS" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DFS" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\그리디" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DFS" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DP" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\BFS" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\자료구조\힙" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -212,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ1676 팩토리얼 0의 개수">
+  <component name="RunManager" selected="Python.BOJ7569 토마토">
     <configuration name="BOJ11403 경로 찾기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -246,7 +249,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\그리디\BOJ1541 잃어버린 괄호.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\수학\BOJ1541 잃어버린 괄호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +270,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ1676 팩토리얼 0의 개수.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\수학\BOJ1676 팩토리얼 0의 개수.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="BOJ2579 계단 오르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BOJ7569 토마토" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -288,7 +291,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\SJ\algorithm\DP\BOJ2579 계단 오르기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ7569 토마토.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,19 +322,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.BOJ2579 계단 오르기" />
       <item itemvalue="Python.BOJ9461 파도반 수열" />
       <item itemvalue="Python.BOJ11403 경로 찾기" />
       <item itemvalue="Python.BOJ1541 잃어버린 괄호" />
       <item itemvalue="Python.BOJ1676 팩토리얼 0의 개수" />
+      <item itemvalue="Python.BOJ7569 토마토" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ7569 토마토" />
         <item itemvalue="Python.BOJ1676 팩토리얼 0의 개수" />
         <item itemvalue="Python.BOJ1541 잃어버린 괄호" />
         <item itemvalue="Python.BOJ11403 경로 찾기" />
         <item itemvalue="Python.BOJ9461 파도반 수열" />
-        <item itemvalue="Python.BOJ2579 계단 오르기" />
       </list>
     </recent_temporary>
   </component>
@@ -349,16 +352,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1629" y="91" width="1438" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26285714" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1938883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38110748" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4353963" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38110748" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4353963" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -487,20 +490,31 @@
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BOJ1676 팩토리얼 0의 개수.py</url>
+          <url>file://$PROJECT_DIR$/수학/BOJ1676 팩토리얼 0의 개수.py</url>
           <line>9</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ7569 토마토.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="arr" language="Python" />
+        <watch expression="temp" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>temp</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>flag</expression-string>
         <language-id>Python</language-id>
@@ -544,20 +558,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/문자열/BOJ1764.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/문자열/BOJ1764 듣보잡.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="16" lean-forward="true" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BOJ11723.txt" />
     <entry file="file://$PROJECT_DIR$/BOJ11723 집합.py" />
     <entry file="file://$PROJECT_DIR$/BFS/BOJ1012.txt">
@@ -859,31 +859,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/그리디/BOJ1541.txt">
+    <entry file="file://$PROJECT_DIR$/수학/BOJ1541.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/그리디/BOJ1541 잃어버린 괄호.py">
+    <entry file="file://$PROJECT_DIR$/수학/BOJ1541 잃어버린 괄호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="8" column="26" lean-forward="true" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ1676 팩토리얼 0의 개수.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BOJ1676.txt">
+    <entry file="file://$PROJECT_DIR$/수학/BOJ1676.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/수학/BOJ1676 팩토리얼 0의 개수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ7569.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOJ7569 토마토.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
