@@ -33,13 +33,15 @@ else:
             if 0<= temp_r<R and 0<=temp_c<C and 0<=temp_h<H:
                 if arr[temp_h][temp_r][temp_c]==0:
                     arr[temp_h][temp_r][temp_c]= 1
-                    q.append((temp_h,temp_r,temp_c,day+1))
+                    q.append((temp_r,temp_c,temp_h,day+1))
+
     flag = 0
     for h in range(H):
-        for r in range(R):
-            if arr[h][r].count(0):
-                print(-1)
-                flag = 1
-                break
+        if flag==0:
+            for r in range(R):
+                if arr[h][r].count(0):
+                    print(-1)
+                    flag = 1
+                    break
     if flag==0:
-        print(day-1)
+        print(day)
