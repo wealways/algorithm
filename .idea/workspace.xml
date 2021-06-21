@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68d786a3-ba25-4d48-85ab-42516b00fedd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +62,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ7662 이중우선순위 큐">
+  <component name="RunManager" selected="Python.BOJ16236 아기상어">
+    <configuration name="BOJ16236 아기상어" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\SJ\algorithm\BFS\BOJ16236 아기상어.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BOJ2630 색종이 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,9 +178,11 @@
       <item itemvalue="Python.swea5205 퀵정렬" />
       <item itemvalue="Python.BOJ2630 색종이 만들기" />
       <item itemvalue="Python.temp" />
+      <item itemvalue="Python.BOJ16236 아기상어" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ16236 아기상어" />
         <item itemvalue="Python.BOJ7662 이중우선순위 큐" />
         <item itemvalue="Python.temp" />
         <item itemvalue="Python.BOJ2630 색종이 만들기" />
@@ -179,7 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614392352220</updated>
       <workItem from="1624253759897" duration="4662000" />
-      <workItem from="1624259051874" duration="2443000" />
+      <workItem from="1624259051874" duration="11977000" />
     </task>
     <servers />
   </component>
@@ -316,6 +338,11 @@
           <url>file://$PROJECT_DIR$/자료구조/힙/BOJ11279 최대힙.py</url>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BOJ16236 아기상어.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -329,6 +356,7 @@
     <SUITE FILE_PATH="coverage/algorithm$BOJ7662__.coverage" NAME="BOJ7662 이중우선순위 큐 Coverage Results" MODIFIED="1624259359892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ1780__.coverage" NAME="BOJ1780 종이의 개수 Coverage Results" MODIFIED="1624253865080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$swea5205_.coverage" NAME="swea5205 퀵정렬 Coverage Results" MODIFIED="1624259070562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/정렬" />
+    <SUITE FILE_PATH="coverage/algorithm$BOJ16236_.coverage" NAME="BOJ16236 아기상어 Coverage Results" MODIFIED="1624279388949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$temp.coverage" NAME="temp Coverage Results" MODIFIED="1624259326979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ1074_Z.coverage" NAME="BOJ1074 Z Coverage Results" MODIFIED="1624258571772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ2630__.coverage" NAME="BOJ2630 색종이 만들기 Coverage Results" MODIFIED="1624259076480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/분할정복" />
