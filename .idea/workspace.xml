@@ -43,11 +43,11 @@
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\SJ\algorithm\DP" />
       <recent name="C:\Users\USER\Desktop\SJ\algorithm\BFS" />
       <recent name="C:\Users\USER\Desktop\SJ\algorithm\자료구조\힙" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\분할정복" />
       <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\BFS" />
-      <recent name="C:\Users\multicampus\Desktop\SJ\algorithm\DFS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -62,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BOJ1149 RGB거리">
+  <component name="RunManager" selected="Python.BOJ1932 정수삼각형">
     <configuration name="복습" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -129,6 +129,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="BOJ1932 정수삼각형" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\USER\Desktop\SJ\algorithm\DP\BOJ1932 정수삼각형.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BOJ6064 카잉달력" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -151,42 +173,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.temp" />
       <item itemvalue="Python.BOJ16236 아기상어 (1)" />
       <item itemvalue="Python.복습" />
       <item itemvalue="Python.BOJ6064 카잉달력" />
       <item itemvalue="Python.BOJ1149 RGB거리" />
+      <item itemvalue="Python.BOJ1932 정수삼각형" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BOJ1932 정수삼각형" />
         <item itemvalue="Python.BOJ1149 RGB거리" />
         <item itemvalue="Python.BOJ6064 카잉달력" />
         <item itemvalue="Python.복습" />
         <item itemvalue="Python.BOJ16236 아기상어 (1)" />
-        <item itemvalue="Python.temp" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +203,9 @@
       <workItem from="1624253759897" duration="4662000" />
       <workItem from="1624259051874" duration="12712000" />
       <workItem from="1624286876291" duration="3593000" />
-      <workItem from="1624336959711" duration="6656000" />
+      <workItem from="1624336959711" duration="7898000" />
+      <workItem from="1626501533002" duration="1830000" />
+      <workItem from="1626583449298" duration="6205000" />
     </task>
     <servers />
   </component>
@@ -346,7 +348,7 @@
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BOJ1149 RGB거리.py</url>
+          <url>file://$PROJECT_DIR$/DP/BOJ1149 RGB거리.py</url>
           <line>8</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
@@ -354,17 +356,18 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/algorithm$BOJ1074_Z__1_.coverage" NAME="BOJ1074 Z (1) Coverage Results" MODIFIED="1624254137162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/분할정복" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ7662__.coverage" NAME="BOJ7662 이중우선순위 큐 Coverage Results" MODIFIED="1624259359892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ6064_.coverage" NAME="BOJ6064 카잉달력 Coverage Results" MODIFIED="1624342214090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ1149_RGB.coverage" NAME="BOJ1149 RGB거리 Coverage Results" MODIFIED="1624346450006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ1780__.coverage" NAME="BOJ1780 종이의 개수 Coverage Results" MODIFIED="1624253865080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/algorithm$swea5205_.coverage" NAME="swea5205 퀵정렬 Coverage Results" MODIFIED="1624259070562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/정렬" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ16236___1_.coverage" NAME="BOJ16236 아기상어 (1) Coverage Results" MODIFIED="1624337630081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BFS" />
-    <SUITE FILE_PATH="coverage/algorithm$BOJ16236_.coverage" NAME="BOJ16236 아기상어 Coverage Results" MODIFIED="1624279388949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$.coverage" NAME="복습 Coverage Results" MODIFIED="1624341012730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$temp.coverage" NAME="temp Coverage Results" MODIFIED="1624337608118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ1074_Z.coverage" NAME="BOJ1074 Z Coverage Results" MODIFIED="1624258571772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/algorithm$BOJ2630__.coverage" NAME="BOJ2630 색종이 만들기 Coverage Results" MODIFIED="1624259076480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/분할정복" />
+    <SUITE FILE_PATH="coverage/algorithm$BOJ1074_Z__1_.coverage" NAME="BOJ1074 Z (1) Coverage Results" MODIFIED="1624254137162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/분할정복" />
+    <SUITE FILE_PATH="coverage/algorithm$swea5205_.coverage" NAME="swea5205 퀵정렬 Coverage Results" MODIFIED="1624259070562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/정렬" />
+    <SUITE FILE_PATH="coverage/algorithm$BOJ16236_.coverage" NAME="BOJ16236 아기상어 Coverage Results" MODIFIED="1624279388949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algorithm$BOJ1932_.coverage" NAME="BOJ1932 정수삼각형 Coverage Results" MODIFIED="1626592733788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
